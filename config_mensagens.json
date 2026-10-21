@@ -1,0 +1,21 @@
+{
+  "nome_da_escola": "Escola Criativa",
+  "novo_curso": "Design Avançado com IA",
+  "mensagens": [
+    "Olá, {nome}! Tudo bem? 😊",
+    "Aqui é da {escola}, onde você concluiu o curso de {curso_anterior}.",
+    "Estamos abrindo uma nova turma exclusiva para o curso de *{novo_curso}* e separamos uma condição especial para ex-alunos! Gostaria de receber a ementa completa? 🚀"
+  ],
+  "delay_entre_mensagens_do_mesmo_aluno_segundos": {
+    "min": 3,
+    "max": 6
+  },
+  "delay_entre_alunos_segundos": {
+    "min": 15,
+    "max": 30
+  },
+  "pausa_de_seguranca": {
+    "a_cada_quantos_alunos": 15,
+    "tempo_pausa_minutos": 2
+  }
+}
